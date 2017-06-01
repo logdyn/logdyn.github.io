@@ -1,6 +1,6 @@
 # Logdyn API
 
-Take a look at our Java Server <--> Client [logging API](http://api.logdyn.com)
+Take a look at our Java Server <--> Client [logging API](http://api.logdyn.com) [![Build Status](https://travis-ci.org/logdyn/logdyn-api.svg?branch=master)](https://travis-ci.org/logdyn/logdyn-api)
 
 # Yeovil College Microsoft AI
 
