@@ -11,7 +11,7 @@ Our WIP Java [Command delegation API](http://logdyn.com/re-agent/com/logdyn/pack
 - Loosely coupled `Command Pattern`
 - Listener support
 
-# Yeovil College Microsoft AI [![Build Status](https://travis-ci.org/logdyn/yeovil_microsoft_cognitive_ai.svg?branch=master)](https://travis-ci.org/logdyn/yeovil_microsoft_cognitive_ai)
+# Yeovil Microsoft Cognitive AI [![Build Status](https://travis-ci.org/logdyn/yeovil_microsoft_cognitive_ai.svg?branch=master)](https://travis-ci.org/logdyn/yeovil_microsoft_cognitive_ai)
 
 A [college project](http://ymca.logdyn.com) using the Microsoft cognitive AI API's, and the progenitor of our API
 
